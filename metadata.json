@@ -1,0 +1,5 @@
+{
+  "name": "SomaAUTO-GT",
+  "description": "A web application that allows users to generate hyper-realistic, high-quality wall frame artwork of any car. Users can select the car model, a visual theme, and a color to create a unique, master-quality image with detailed specifications.",
+  "requestFramePermissions": []
+}
